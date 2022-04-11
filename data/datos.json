@@ -1,0 +1,74 @@
+[
+  {
+    "img": "img/1.jpg",
+    "nombre": "Tapiz Texas",
+    "precio": 1800,
+    "id": "1"
+  },
+  {
+    "img": "img/2.jpg",
+    "nombre": "Plato de Sitio",
+    "precio": 1500,
+    "id": "2"
+  },
+  {
+    "img": "img/3.jpg",
+    "nombre": "Tapiz Reysu",
+    "precio": 1550,
+    "id": "3"
+  },
+  {
+    "img": "img/4.jpg",
+    "nombre": "Almohadon Pompom",
+    "precio": 1350,
+    "id": "4"
+  },
+  {
+    "img": "img/5.jpg",
+    "nombre": "Posa Vasos",
+    "precio": 850,
+    "id": "5"
+  },
+  {
+    "img": "img/6.jpg",
+    "nombre": "Espejos",
+    "precio": 1100,
+    "id": "6"
+  },
+  {
+    "img": "img/7.jpg",
+    "nombre": "Tapiz Plumitas",
+    "precio": 1400,
+    "id": "7"
+  },
+  {
+    "img": "img/8.jpg",
+    "nombre": "Tapiz Cruhi",
+    "precio": 1900,
+    "id": "8"
+  },
+  {
+    "img": "img/9.jpg",
+    "nombre": "Tapiz Potu",
+    "precio": 2100,
+    "id": "9"
+  },
+  {
+    "img": "img/10.jpg",
+    "nombre": "Individual",
+    "precio": 1500,
+    "id": "10"
+  },
+  {
+    "img": "img/11.jpg",
+    "nombre": "Posa Velas",
+    "precio": 1400,
+    "id": "11"
+  },
+  {
+    "img": "img/12.jpg",
+    "nombre": "Tapiz Napo",
+    "precio": 2000,
+    "id": "12"
+  }
+]
